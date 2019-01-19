@@ -1,0 +1,38 @@
+
+View In Browser
+ 
+ 
+ 
+REST Testing Made Easy with SoapUI Pro
+Friday, January 11th 
+1:00pm GMT | 6:00pm GMT
+
+ 
+Register Now
+ 
+
+Hi there, 
+
+Did you know that last year, in 2018, API testing is the highest growing method of testing for Agile and DevOps teams? 
+
+With RESTful APIs invading our software stack and becoming more popular - it is critical to create an end-to-end API testing strategy using the right set of tools. SoapUI Pro helps eliminate the complexity of REST testing, by enabling you to build, execute, and automate API tests at scale. 
+
+Join me this week for a webinar on REST Testing Made Easy with SoapUI Pro. 
+
+You'll walk away knowing more about: 
+The basics of testing with REST APIs
+Creating and executing REST API tests with a few clicks
+Maintaining your tests as APIs change
+Reporting on REST API test results
+Automating your REST API tests in just three steps
+ 
+Friday, January 11th at 1:00 PM & 6:00 PM GMT
+ 
+ 
+Register Now
+ 
+ 
+	
+Stephanie Soder
+ 
+API Marketing Manager 
